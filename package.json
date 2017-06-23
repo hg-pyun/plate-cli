@@ -3,17 +3,31 @@
   "version": "0.0.1",
   "description": "Javascript Boilerplate Command Line Generator",
   "main": "index.js",
+  "bin": {
+    "plate": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/haegul/plate-cli.git"
   },
+  "keywords": [
+    "javascript",
+    "boilerplate",
+    "ECMA2015",
+    "react",
+    "vue",
+    "nodejs"
+  ],
   "author": "Haegul Pyun",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/haegul/plate-cli/issues"
   },
   "homepage": "https://github.com/haegul/plate-cli#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "commander": "^2.10.0"
   },
+  "scripts": {
+    "test": "node lib/index.js name"
+  }
 }
