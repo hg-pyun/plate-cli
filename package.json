@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/haegul/plate-cli#readme",
   "dependencies": {
-    "commander": "^2.10.0"
+    "commander": "^2.10.0",
+    "download-git-repo": "^1.0.1"
   },
   "scripts": {
     "test": "node lib/index.js name"
