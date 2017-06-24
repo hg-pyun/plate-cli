@@ -12,8 +12,26 @@ $ npm install -g plate-cli
 ```
 
 ## How to Use
+Basically, open the terminal. and write down boilerplate name. When you use 'plate' command, the cli setup boilerplate your working directory.
 ```
-$ plate <boilerplate_name> <folder>
+$ plate <boilerplate>
+```
+
+## Options
+There are some useful options.
+
+#### set directory
+If you want to directory path, please use this option.
+```
+// -d, --directory
+$ plate <boilerplate> --directory [path]
+```
+
+#### git clone
+This option support git clone. If you set github SSH, you can use it.
+```
+// -c, --clone
+$ plate <boilerplate> --clone
 ```
 
 ## Plate List
