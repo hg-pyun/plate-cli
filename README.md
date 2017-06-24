@@ -12,7 +12,7 @@ $ npm install -g plate-cli
 ```
 
 ## How to Use
-Basically, open the terminal. and write down boilerplate name. When you use 'plate' command, the cli setup boilerplate your working directory.
+Basically, open the terminal and write down boilerplate name. When you use 'plate' command, the cli setup boilerplate your working directory.
 ```
 $ plate <boilerplate>
 ```
@@ -38,4 +38,4 @@ $ plate <boilerplate> --clone
 TBD.
 
 ## How to Contribute
-TBD.
+Please Reference [CONTRIBUTING.md](https://github.com/haegul/plate-cli/blob/master/CONTRIBUTING.md)
