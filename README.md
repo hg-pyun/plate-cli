@@ -35,7 +35,9 @@ $ plate <boilerplate> --clone
 ```
 
 ## Plate List
-TBD.
+- [react](https://github.com/haegul/react-boilerplate)
+- [react-ssr](https://github.com/haegul/react-ssr-boilerplate)
+- [vue](https://github.com/haegul/vue-boilerplate)
 
 ## How to Contribute
 Please Reference [CONTRIBUTING.md](https://github.com/haegul/plate-cli/blob/master/CONTRIBUTING.md)
