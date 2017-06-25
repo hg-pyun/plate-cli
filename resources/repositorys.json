@@ -1,5 +1,5 @@
 {
   "react" : "haegul/react-boilerplate",
   "react-ssr" : "haegul/react-ssr-boilerplate",
-  "vue" : "haegul/vue-vuex-boilerplate"
+  "vue-vuex" : "haegul/vue-vuex-boilerplate"
 }
