@@ -8,7 +8,7 @@ Quickly start your project with simple commands.
 
 ## Install
 ```
-$ npm install -g plate-cli
+$ sudo npm install -g plate-cli
 ```
 
 ## How to Use
