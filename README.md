@@ -17,6 +17,17 @@ Basically, open the terminal and write down boilerplate name. When you use 'plat
 $ plate <boilerplate>
 ```
 
+#### examples
+Here are examples.
+```
+$ mkdir my-plate && cd my-plate
+$ plate react
+
+```
+```
+$ plate react -d my-plate
+```
+
 ## Options
 There are some useful options.
 
