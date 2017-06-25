@@ -24,6 +24,7 @@ $ mkdir my-plate && cd my-plate
 $ plate react
 
 ```
+Using directory option.
 ```
 $ plate react -d my-plate
 ```
@@ -34,21 +35,19 @@ There are some useful options.
 #### set directory
 If you want to directory path, please use this option.
 ```
-// -d, --directory
-$ plate <boilerplate> --directory [path]
+$ plate <boilerplate> --directory [path] // -d, --directory
 ```
 
 #### git clone
 This option support git clone. If you set github SSH, you can use it.
 ```
-// -c, --clone
-$ plate <boilerplate> --clone
+$ plate <boilerplate> --clone // -c, --clone
 ```
 
 ## Plate List
 - [react](https://github.com/haegul/react-boilerplate)
 - [react-ssr](https://github.com/haegul/react-ssr-boilerplate)
-- [vue](https://github.com/haegul/vue-boilerplate)
+- [vue-vuex](https://github.com/haegul/vue-vuex-boilerplate)
 
 ## How to Contribute
 Please Reference [CONTRIBUTING.md](https://github.com/haegul/plate-cli/blob/master/CONTRIBUTING.md)
