@@ -22,7 +22,6 @@ Here are examples.
 ```
 $ mkdir my-plate && cd my-plate
 $ plate react
-
 ```
 Using directory option.
 ```
