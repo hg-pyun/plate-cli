@@ -1,7 +1,7 @@
 {
   "name": "plate-cli",
-  "version": "0.2.0",
-  "description": "Javascript Boilerplate Command Line Generator",
+  "version": "1.0.0",
+  "description": "Boilerplate Generator using CLI",
   "main": "index.js",
   "bin": {
     "plate": "bin/index.js"
@@ -30,6 +30,6 @@
     "download-git-repo": "^1.0.1"
   },
   "scripts": {
-    "test": "node lib/index.js name"
+    "test": "node lib/index.js react -d temp"
   }
 }
